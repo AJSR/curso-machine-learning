@@ -1,5 +1,6 @@
 # curso-machine-learning
 03/05/2023
+
 El directorio contiene cuatro notebooks:
 1. Python básico: Variables y tipos, strings, operadores, condicionales y estructuras de datos básicas.
 2. Condicionales.
