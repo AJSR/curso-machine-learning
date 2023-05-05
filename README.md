@@ -13,3 +13,10 @@ Añadido el directorio "Dia 2 - Miercoles" con tres notebook:
 1. Obtención de datos de SpaceX
 2. Manipulación y análisis de datos de SpaceX
 3. Visualización de los datos de SpaceX
+
+05/05/2023
+
+Añadido directorio "Dia 3 - Jueves" con tres notebooks:
+1. Prophet - Predecir eñl valor de bitcoin
+2. Introduccion a Machine Learning con scikit-learn
+3. Folium
